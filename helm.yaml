@@ -1,3 +1,4 @@
 appName: user
 service:
+  type: ClusterIP
   targetPort: 8080
